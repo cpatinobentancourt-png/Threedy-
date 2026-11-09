@@ -1,0 +1,6 @@
+{
+  "name": "PULSE - Red Social de Comunidades & Estereotipos",
+  "description": "Red social móvil moderna inspirada en el ecosistema Meta, X, WhatsApp y YouTube: exploración por tribus y estereotipos, hilos, reels, chats en vivo y perfiles personalizables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
